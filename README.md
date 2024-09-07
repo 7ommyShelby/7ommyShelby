@@ -1,16 +1,130 @@
-## Hi there 👋
+<p align="center">
 
-<!--
-**7ommyShelby/7ommyShelby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
+<h1 align="center"><b>Hi , I'm Arya Kumar</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mishra06&label=Profile%20views&color=0e75b6&style=flat" alt="mishra06" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=<>+Passionate+Frontend-+Developer,;Computer+Science+and+Engineering+Student,;Active+Learner,;Love+to+learn+new+Technologies..</>">
+</p>
+
+<br>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+[//]: # '<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>'
+
+<br>
+- 🏫: I'm a B.Tech Graduate.<br>
+- 🎒: I'm a 2022 graduate <br>
+- 💻: A passionate Full Stack developer. <br>
+- 🔭: At the moment I am starting to learn Next.js. 🧠💻🤖 <br>
+- 💬: Ask me about Data Structures, Java, Web Development and building robust apps. 📊📈🤖🧠 <br>
+- 👨‍💻 All of my projects are available at (https://github.com/7ommyShelby?tab=repositories) <br>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<br>
+
+<p align="center">
+
+- **Languages**:<br><br>
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) &nbsp;
+
+<br>
+
+- **Front-End Technologies**:
+
+  ![HTML](https://img.shields.io/badge/html_5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) &nbsp;
+  ![CSS](https://img.shields.io/badge/css_3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) &nbsp;
+  ![JavaScript](https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) &nbsp;
+  ![React](https://img.shields.io/badge/react%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white) &nbsp;
+  ![Material UI](https://img.shields.io/badge/materialui%20-23E34F26.svg?&style=for-the-badge&logo=MaterialUI&logoColor=white) &nbsp;
+  ![Tailwind](https://img.shields.io/badge/Tailwind%21-F7DF1E.svg?&style=for-the-badge&logo=TailwindCss&logoColor=white) &nbsp;
+
+<br>
+
+- **Back-End Technologies**:
+
+  ![NodeJs](https://img.shields.io/badge/nodeJs%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) &nbsp;
+  ![ExpressJs](https://img.shields.io/badge/expressjs%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) &nbsp;
+  
+
+<br>
+
+- **Design**:
+
+  ![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white) &nbsp;
+
+<br>
+
+- **Databases**:
+
+
+  ![Mongo DB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
+
+<br>
+
+- **Cloud Hosting**:
+
+  ![Github Pages](https://img.shields.io/badge/github_pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
+  ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white) &nbsp;
+  ![Render](https://img.shields.io/badge/render-00C7B7.svg?style=for-the-badge&logo=render&logoColor=white) &nbsp;
+
+<br>
+
+- **Softwares and Tools**:
+
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
+  ![Intellij Idea](https://img.shields.io/badge/intellij_idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white) &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;
+  ![Chat GPT](https://img.shields.io/badge/chat_gpt-412991.svg?style=for-the-badge&logo=openai&logoColor=white) &nbsp;
+
+<br>
+
+- **Operating System :**
+
+  ![Windows](https://img.shields.io/badge/windows-0078D4.svg?style=for-the-badge&logo=windows&logoColor=white) &nbsp;
+
+</p>
+<br>
+
+---
+
+<br>
+<h3><b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h3>
+<br>
+
+<div align='left'>
+
+<ul>
+
+<a href="mailto:aryaalsaher@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
+</a> &nbsp;
+<a href="https://www.linkedin.com/in/aryakumar98/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a> &nbsp;
+
+</ul>
+</div>
+
+
+<hr>
+<Br>
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mishra06&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Vibhakar Mishra Github Stats">
+</p>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
