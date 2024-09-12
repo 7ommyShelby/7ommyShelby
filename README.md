@@ -53,8 +53,8 @@
 
 - **Back-End Technologies**:
 
-  ![NodeJs](https://img.shields.io/badge/nodeJs%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) &nbsp;
-  ![ExpressJs](https://img.shields.io/badge/expressJs%20-%231572B6.svg?&style=for-the-badge&logo=expressJs&logoColor=white) &nbsp;
+  ![NodeJs](https://img.shields.io/badge/nodeJs%20-%23E34F26.svg?&style=for-the-badge&logo=nodejs&logoColor=white) &nbsp;
+  ![ExpressJs](https://img.shields.io/badge/expressJs%20-%231572B6.svg?&style=for-the-badge&logo=expressjs&logoColor=white) &nbsp;
   
 
 <br>
