@@ -36,7 +36,7 @@
 <p align="center">
 
 - **Languages**:<br><br>
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) &nbsp;
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) &nbsp;
 
 <br>
 
@@ -46,7 +46,7 @@
   ![CSS](https://img.shields.io/badge/css_3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) &nbsp;
   ![JavaScript](https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) &nbsp;
   ![React](https://img.shields.io/badge/react%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white) &nbsp;
-  ![Material UI](https://img.shields.io/badge/materialui%20-23E34F26.svg?&style=for-the-badge&logo=MaterialUI&logoColor=white) &nbsp;
+  ![Material UI](https://img.shields.io/badge/Materialui%20-23E34F26.svg?&style=for-the-badge&logo=materialui&logoColor=white) &nbsp;
   ![Tailwind](https://img.shields.io/badge/Tailwind%21-F7DF1E.svg?&style=for-the-badge&logo=TailwindCss&logoColor=white) &nbsp;
 
 <br>
@@ -54,7 +54,7 @@
 - **Back-End Technologies**:
 
   ![NodeJs](https://img.shields.io/badge/nodeJs%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) &nbsp;
-  ![ExpressJs](https://img.shields.io/badge/expressjs%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) &nbsp;
+  ![ExpressJs](https://img.shields.io/badge/expressJs%20-%231572B6.svg?&style=for-the-badge&logo=expressJs&logoColor=white) &nbsp;
   
 
 <br>
