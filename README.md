@@ -23,8 +23,7 @@
 
 <!-- <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture> -->
 
-- 🏫: I'm a B.Tech Graduate. <br>
-- 🎒: I'm a 2022 graduate. <br>
+- 🎒: I'm a 2022 B.Tech Graduate. <br>
 - 💻: A passionate Full Stack developer. <br>
 - 🔭: Currently learning Next.js. 🧠💻🤖 <br>
 - 💬: Ask me about Data Structures, Java, Web Development, and building robust apps. 📊📈🤖🧠 <br>
